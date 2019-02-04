@@ -131,6 +131,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design) - Domain-Driven Design mixed with security, and agile in general. Written as fictional letters to a younger programmer.
 - [the native web](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) - DDD & Co. series
 - [Arkency](https://blog.arkency.com/) - Various DDD, CQRS, Event Sourcing related articles from Ruby experts.
+- [Building ddd architecture in .net](https://amanagrawal.blog/2017/08/04/building-domain-driven-architecture-in-net-part-1-overview/)
 
 ## Sample Projects
 
