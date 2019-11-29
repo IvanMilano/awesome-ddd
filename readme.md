@@ -162,6 +162,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [CQRS.Demo](https://github.com/sachabarber/SachaBarber.CQRS.Demo) - CQRS Demo using CQRSLite
 - [Documently](https://github.com/haf/Documently) - Sample application showcasing a DDD/CQRS architecture
+- [eShopOnContainers](https://github.com/volak/eShopOnContainersDDD) - eShopOnContainers fork -alternative implementation
 ## Libraries and Frameworks
 
 - [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
